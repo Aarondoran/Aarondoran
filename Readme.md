@@ -26,5 +26,5 @@ Feel free to reach out to me for collaboration or inquiries:
 
 ## License
 
-ALL RIGHTS RESERVED AARON DORAN
+© 2023 Aaron Doran. All rights reserved.
 
