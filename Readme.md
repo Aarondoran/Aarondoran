@@ -16,13 +16,13 @@ I'm Aaron Doran, a passionate web developer and creator of online applications. 
 
 Connect with me on social media platforms:
 
-- [GitHub](https://github.com/your-username)
+- [GitHub](https://github.com/Aarondoran)
 ## Contact
 
 Feel free to reach out to me for collaboration or inquiries:
 
 - Email: aarondoran@outlook.ie
-- [Portfolio Website](https://aarondoran.github.io/aarondoran)
+- [Portfolio Website](https://aarondoran.github.io/Aarondoran)
 
 ## License
 
