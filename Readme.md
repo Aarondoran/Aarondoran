@@ -17,6 +17,7 @@ I'm Aaron Doran, a passionate web developer and creator of online applications. 
 Connect with me on social media platforms:
 
 - [GitHub](https://github.com/Aarondoran)
+- [Discord](discordapp.com/users/1059184281605378078)
 ## Contact
 
 Feel free to reach out to me for collaboration or inquiries:
