@@ -8,7 +8,6 @@ I'm Aaron Doran, a passionate web developer and creator of online applications. 
 
 ## Experience
 
-- JavaScript: Several years of experience building interactive and dynamic web applications.
 - HTML & CSS: Proficient in creating responsive and visually appealing web layouts.
 - PHP: 1 year of experience developing server-side applications and dynamic websites.
 
