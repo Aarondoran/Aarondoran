@@ -8,24 +8,43 @@
     <title>Contact Me</title>
 </head>
 <body>
-<nav class="navbar">
+    <nav class="navbar">
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="contact.html">Contact</a></li>
             <!-- Add more navigation links as needed -->
         </ul>
     </nav>
-    <div class="contact-container">
-        <h1>Contact Me</h1>
-        <form id="contactForm" action="mailto:aarondoran@outlook.ie?subject=Aarondoran portfolio contact" method="post" enctype="text/plain">
-            <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" rows="4" required></textarea>
-
-            <button type="submit">Submit</button>
-        </form>
+    <div class="authenticated-container">
+        <div class="title-container">
+            <h1 class="title">Aaron Doran</h1>
+        </div>
+        <div class="logo-container">
+            <div class="logo">
+                <img src="images/Aarondoran.jpeg" alt="Logo">
+            </div>
+        </div>
+        <h1 class="subtitle">Contact Methods</h1>
+        <div class="websites-container">
+            <div class="website">
+                <div class="website-box">
+                    <h2>Email</h2>
+                    <p>Email me</p>
+                    <a href="mailto:aarondoran@outlook.ie" target="_blank" class="contact-button">Send Email</a>
+                </div>
+            </div>
+            <div class="website">
+                <div class="website-box">
+                    <h2>Discord</h2>
+                    <p>Message me on Discord</p>
+                    <a href="https://discordapp.com/users/1059184281605378078" target="_blank" class="contact-button">Visit Discord</a>
+                </div>
+            </div>
+            <!-- Add more contact methods as needed -->
+        </div>
+        <footer class="footer">
+            <p>&copy; 2023 Aaron Doran. All rights reserved.</p>
+        </footer>
     </div>
 </body>
 </html>
