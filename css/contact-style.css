@@ -25,16 +25,20 @@ html, body {
 }
 
 .logo {
+    display: inline-block; /* Ensures the div doesn't stretch */
     border-radius: 50%;
     overflow: hidden;
     margin-bottom: 20px; /* Adjust margin as needed */
 }
 
 .logo img {
+    display: block; /* Removes the space below the image */
     max-width: 100px; /* Adjust the value as needed */
+    width: 100%; /* Ensures the image scales with the container */
     height: auto;
     border-radius: 50%;
 }
+
 
 .title-container {
     text-align: center;
