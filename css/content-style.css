@@ -41,7 +41,8 @@ html, body {
 }
 
 .title {
-    font-size: 42px;
+    font-size: 24px;
+    text-size: 48px;
 }
 
 .websites-container {
@@ -105,7 +106,8 @@ html, body {
 }
 
 .subtitle {
-    font-size: 24px;
+    font-size: 18px;
+    text-size: 24px;
 }
 
 p {
