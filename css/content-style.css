@@ -175,3 +175,23 @@ p {
 .social-media-item a:hover {
     background-color: #2980b9;
 }
+a, button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    transition: background-color 0.3s;
+    border: none; /* Remove default button border */
+    cursor: pointer; /* Ensure buttons get a pointer cursor */
+}
+
+a:hover, button:hover {
+    background-color: #2980b9;
+}
+
+a:focus, button:focus {
+    outline: none; /* Remove default focus outline */
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.5); /* Add custom focus outline */
+}
