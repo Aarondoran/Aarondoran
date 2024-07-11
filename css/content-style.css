@@ -175,7 +175,7 @@ p {
 .social-media-item a:hover {
     background-color: #2980b9;
 }
-button {
+.websites-container button {
     display: inline-block;
     padding: 10px 20px;
     background-color: #3498db;
