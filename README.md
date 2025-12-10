@@ -10,7 +10,7 @@
 Relevant info about me
 
 ### Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Aarondoran&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Aarondoran&show_icons=true&theme=dark&show=,prs_merged_percentage&hide=issues,contribs)
 
 ### Most used Languages
 ![GitHub most used langauges](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Aarondoran&layout=compact&theme=dark)
