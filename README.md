@@ -38,3 +38,5 @@
 ![GitHub Pinned repo - Task-zen](https://github-readme-stats-fast.vercel.app/api/pin/?username=Aarondoran&repo=Task-zen&theme=dark)
 
 ![GitHub Pinned repo - Node-URL-shortener](https://github-readme-stats-fast.vercel.app/api/pin/?username=Aarondoran&repo=Node-URL-shortener&theme=dark)
+
+![GitHub Pinned repo - QuickStart main repo](https://github-readme-stats-fast.vercel.app/api/pin/?username=QuickStart-repos&repo=.github&theme=dark)
