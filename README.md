@@ -1,3 +1,7 @@
+**View my Website:**
+
+[![shields badge](https://img.shields.io/badge/my-website-blue?logo=github)](https://aarondoran.github.io)
+
 ```
     ___                             ____                       
    /   | ____ __________  ____     / __ \____  _________ _____ 
