@@ -17,8 +17,7 @@
 
 ---
 
-##
-Socials
+## Socials
 - [Website](https://aarondoran.me)
 - thats everything important
 
