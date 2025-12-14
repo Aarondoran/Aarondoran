@@ -18,7 +18,8 @@
 ---
 
 ## Socials
-- [Website](https://aarondoran.me)
+- [![Website](https://img.shields.io/badge/Aarondoran.me-blue?logo=github&labelColor=grey
+)](https://aarondoran.me)
 - thats everything important
 
 ---
