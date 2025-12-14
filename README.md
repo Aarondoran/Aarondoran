@@ -1,7 +1,3 @@
-**View my Website:**
-
-[![shields badge](https://img.shields.io/badge/my-website-blue?logo=github)](https://aarondoran.github.io)
-
 ```
     ___                             ____                       
    /   | ____ __________  ____     / __ \____  _________ _____ 
@@ -10,6 +6,24 @@
 /_/  |_\__,_/_/   \____/_/ /_/  /_____/\____/_/   \__,_/_/ /_/ 
 
 ```
+
+## Badges
+<!-- Add your deployment, CI/CD, or other badges here -->
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2FAarondoran.me&up_color=green&down_color=red&label=Aarondoran.me)
+](https://aarondoran.me)
+
+[![Node.js Package to Github](https://github.com/Aarondoran/servify-express/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/Aarondoran/servify-express/actions/workflows/npm-publish-github-packages.yml)
+
+---
+
+##
+Socials
+- [Website](https://aarondoran.me)
+- thats everything important
+
+---
+
 ## 🛠 Tech Stack
 
 ### Languages
