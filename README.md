@@ -6,9 +6,9 @@
 /_/  |_\__,_/_/   \____/_/ /_/  /_____/\____/_/   \__,_/_/ /_/ 
 
 ```
+---
 
 ## Badges
-<!-- Add your deployment, CI/CD, or other badges here -->
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2FAarondoran.me&up_color=green&down_color=red&label=Aarondoran.me)
 ](https://aarondoran.me)
