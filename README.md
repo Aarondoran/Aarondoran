@@ -18,9 +18,10 @@
 ---
 
 ## Socials
-- [![Website](https://img.shields.io/badge/Aarondoran.me-blue?logo=github&labelColor=grey
+- [![Website](https://custom-icon-badges.demolab.com/badge/Aarondoran.me-blue?logo=aarondoran-pfp&labelColor=grey
 )](https://aarondoran.me)
-- thats everything important
+- [![Reddit](https://img.shields.io/badge/aarond11-orange?logo=Reddit&labelColor=grey)
+(https://www.reddit.com/user/aarondoran11/)
 
 ---
 
