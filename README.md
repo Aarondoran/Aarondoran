@@ -18,10 +18,8 @@
 ---
 
 ## Socials
-- [![Website](https://custom-icon-badges.demolab.com/badge/Aarondoran.me-blue?logo=aarondoran-pfp&labelColor=grey
-)](https://aarondoran.me)
-- [![Reddit](https://img.shields.io/badge/aarond11-orange?logo=Reddit&labelColor=grey)]
-(https://www.reddit.com/user/aarondoran11/)
+- [![Website](https://custom-icon-badges.demolab.com/badge/Aarondoran.me-blue?logo=aarondoran-pfp&labelColor=grey)](https://aarondoran.me)
+- [![Reddit](https://img.shields.io/badge/aarond11-orange?logo=Reddit&labelColor=grey)](https://www.reddit.com/user/aarondoran11/)
 
 ---
 
