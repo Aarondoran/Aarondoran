@@ -8,15 +8,6 @@
 ```
 ---
 
-## Badges
-
-[![Website](https://img.shields.io/website?url=https%3A%2F%2FAarondoran.me&up_color=green&down_color=red&label=Aarondoran.me)
-](https://aarondoran.me)
-
-[![Node.js Package to Github](https://github.com/Aarondoran/servify-express/actions/workflows/npm-publish-github-packages.yml/badge.svg)](https://github.com/Aarondoran/servify-express/actions/workflows/npm-publish-github-packages.yml)
-
----
-
 ## Socials
 - [![Website](https://custom-icon-badges.demolab.com/badge/Aarondoran.me-blue?logo=aarondoran-pfp&labelColor=grey)](https://aarondoran.me)
 - [![Reddit](https://img.shields.io/badge/aarond11-orange?logo=Reddit&labelColor=grey)](https://www.reddit.com/user/aarondoran11/)
