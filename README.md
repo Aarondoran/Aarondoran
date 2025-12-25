@@ -12,6 +12,8 @@
 - [![Website](https://custom-icon-badges.demolab.com/badge/Aarondoran.me-blue?logo=aarondoran-pfp&labelColor=grey)](https://aarondoran.me)
 - [![Reddit](https://img.shields.io/badge/aarond11-orange?logo=Reddit&labelColor=grey)](https://www.reddit.com/user/aarondoran11/)
 - [![Subway Surfers](https://custom-icon-badges.demolab.com/badge/Subway%20surfers-red?logo=subway-surfer&labelColor=grey)](https://subway-surfers.sng.link/A8yjk/diz7?_dl=subwaysurfers://&pcn=default&_p=%7B%22external_popup_request%22:%22profile_view:15JEF8JEH2C5TF%22%7D)
+- [![Discord](https://img.shields.io/badge/Aarond11-grey?logo=discord&labelColor=black)](https://discord.com/users/1416480890317574144)
+
 
 ---
 
